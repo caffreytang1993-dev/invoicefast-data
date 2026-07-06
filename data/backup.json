@@ -28611,6 +28611,15 @@
       "state": "Saxony-Anhalt",
       "zip": "39171",
       "country": "DE"
+    },
+    {
+      "code": "BER8",
+      "street": "Am Möllenpfuhl",
+      "number": "2",
+      "city": "Schoenefeld",
+      "state": "Bavaria",
+      "zip": "12529",
+      "country": "DE"
     }
   ],
   "accountDB": [
@@ -28689,5 +28698,5 @@
       "name": "塑料+金属"
     }
   ],
-  "exportTime": "2026-07-06T13:00:40.682Z"
+  "exportTime": "2026-07-06T13:08:44.918Z"
 }
