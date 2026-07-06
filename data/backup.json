@@ -28602,6 +28602,15 @@
       "state": "Lower Saxony",
       "zip": "38350",
       "country": "DE"
+    },
+    {
+      "code": "LEJ3",
+      "street": "Bielefelder Str.",
+      "number": "9",
+      "city": "Sulzetal",
+      "state": "Saxony-Anhalt",
+      "zip": "39171",
+      "country": "DE"
     }
   ],
   "accountDB": [
@@ -28680,5 +28689,5 @@
       "name": "塑料+金属"
     }
   ],
-  "exportTime": "2026-07-06T12:56:13.556Z"
+  "exportTime": "2026-07-06T13:00:40.682Z"
 }
