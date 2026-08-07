@@ -30003,6 +30003,19 @@
       "hsCode": "6307909000",
       "link": "https://www.amazon.de/dp/B0HCBPRHJ8",
       "asin": "B0HCBPRHJ8"
+    },
+    {
+      "sku": "JP-FBA-YRA3149-B-Weihnachtsbaum-IG",
+      "enName": "Telescopic Christmas Tree",
+      "cnName": "圣诞树",
+      "price": 24.99,
+      "midSku": "YRA3149-B",
+      "material": "塑料",
+      "logistics": "普货",
+      "usage": "日用百货",
+      "hsCode": "6702100000",
+      "asin": "B0FFMTPVR8",
+      "link": "https://www.amazon.de/dp/B0FFMTPVR8"
     }
   ],
   "warehouseDB": [
@@ -30160,5 +30173,5 @@
       "name": "塑料+金属"
     }
   ],
-  "exportTime": "2026-08-07T09:06:35.787Z"
+  "exportTime": "2026-08-07T09:07:59.586Z"
 }
