@@ -29990,6 +29990,19 @@
       "hsCode": "8205100000",
       "asin": "B0D964JPPH",
       "link": "https://www.amazon.de/dp/B0D964JPPH"
+    },
+    {
+      "sku": "Diamantbohrer-JP-FBA-YRZ0049-SET",
+      "enName": "drill hole saw set",
+      "cnName": "钻头",
+      "price": 69.99,
+      "midSku": "YRZ0049-SET",
+      "material": "金属",
+      "logistics": "普货",
+      "usage": "日用百货",
+      "hsCode": "8205100000",
+      "asin": "B0BYZ85GR1",
+      "link": "https://www.amazon.de/dp/B0BYZ85GR1"
     }
   ],
   "warehouseDB": [
@@ -30156,5 +30169,5 @@
       "name": "塑料+金属"
     }
   ],
-  "exportTime": "2026-08-20T06:54:30.632Z"
+  "exportTime": "2026-08-20T06:55:23.232Z"
 }
