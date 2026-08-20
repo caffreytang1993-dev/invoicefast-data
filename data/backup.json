@@ -29977,6 +29977,19 @@
       "hsCode": "8308100000",
       "link": "https://www.amazon.de/dp/B0HFJ5MTQ2",
       "asin": "B0HFJ5MTQ2"
+    },
+    {
+      "sku": "JP-FBA-YRL0428-EU-Zentrifuge-IG",
+      "enName": "polisher",
+      "cnName": "抛光机",
+      "price": 99.99,
+      "midSku": "YRL0428-EU",
+      "material": "金属",
+      "logistics": "带磁",
+      "usage": "日用百货",
+      "hsCode": "8205100000",
+      "asin": "B0D964JPPH",
+      "link": "https://www.amazon.de/dp/B0D964JPPH"
     }
   ],
   "warehouseDB": [
@@ -30143,5 +30156,5 @@
       "name": "塑料+金属"
     }
   ],
-  "exportTime": "2026-08-20T06:53:00.059Z"
+  "exportTime": "2026-08-20T06:54:30.632Z"
 }
