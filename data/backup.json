@@ -23194,16 +23194,16 @@
     },
     {
       "sku": "YRA3364-Stoßdämpfer-WQW-FBA-YS",
-      "midSku": "YRA3364",
       "enName": "accessories",
-      "cnName": "配件",
+      "cnName": "减震器",
       "price": 35.99,
+      "midSku": "YRA3364",
       "material": "",
       "logistics": "普货",
       "usage": "日用百货",
       "hsCode": "3926909090",
-      "link": "https://www.amazon.de/dp/B0GQLPTX4P",
-      "asin": "B0GQLPTX4P"
+      "asin": "B0GQLPTX4P",
+      "link": "https://www.amazon.de/dp/B0GQLPTX4P"
     },
     {
       "sku": "YRA3367-EU-Wärmer-ZJPF-FBA-YS",
@@ -30364,5 +30364,5 @@
       "name": "塑料+金属"
     }
   ],
-  "exportTime": "2026-08-27T08:19:39.840Z"
+  "exportTime": "2026-08-27T08:24:11.861Z"
 }
